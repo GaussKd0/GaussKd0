@@ -1,6 +1,6 @@
 ## Olá Sou Pedro Galvão
 
-- Estudante C#
+- Estou Atualmente Estundando C#
 
 <div>
   <a href="https://github.com/GaussKd0">
