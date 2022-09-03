@@ -1,5 +1,6 @@
-## Olá Sou Pedro Henrique Galvão Loureiro, Estudante De Engenharia Da Computação!
+## Olá Sou Pedro Galvão
 
+- Estudante C#
 
 <div align="center">
   <a href="https://github.com/GaussKd0">
