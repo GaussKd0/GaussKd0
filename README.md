@@ -1,6 +1,6 @@
 ## Olá Sou Pedro Galvão
 
-- Estou Atualmente Me Aprofundando Em C#
+- Estou Atualmente Me Aprofundando Estudando, E Querendo Aprender Tudo O Que Posso Sobre Programação E Tecnologia 
 
 <div>
   <a href="https://github.com/GaussKd0">
