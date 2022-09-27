@@ -1,6 +1,6 @@
 ## Olá Sou Pedro Galvão
 
-- Estou Atualmente Estou Tentando Me Adapatar A Aprender Qualquer Linguagem Que Seja Nescessaria, E Querendo Aprender Tudo O Que Posso Sobre Programação E Tecnologia 
+- Estou Tentando Me Adapatar A Aprender Qualquer Linguagem Que Seja Nescessaria, E Querendo Aprender Tudo O Que Posso Sobre Programação E Tecnologia 
 
 <div>
   <a href="https://github.com/GaussKd0">
