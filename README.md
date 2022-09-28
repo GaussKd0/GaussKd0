@@ -1,5 +1,4 @@
-## Olá Sou Pedro Galvão
-
+## Olá Sou Pedro Galvão <img src="https://i.pinimg.com/originals/de/87/17/de8717cb44f82e7305d97de272ef6c31.gif" width="30"> 
 - Estou Tentando Me Adapatar A Aprender Qualquer Linguagem Que Seja Nescessaria, E Querendo Aprender Tudo O Que Posso Sobre Programação E Tecnologia 
 
 <div>
