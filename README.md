@@ -1,5 +1,5 @@
 ## Olá Sou Pedro Galvão <img src="https://i.pinimg.com/originals/de/87/17/de8717cb44f82e7305d97de272ef6c31.gif" width="30"> 
-- Estou Tentando Me Adapatar A Aprender Qualquer Linguagem Que Seja Nescessaria, E Querendo Aprender Tudo O Que Posso Sobre Programação E Tecnologia 
+- Nutro um ardente desejo de me tornar um programador, uma aspiração que não só permeia meus pensamentos, mas também guia minhas ações diárias. Estou dedicando todos os meus esforços para aprimorar minhas habilidades e adquirir o conhecimento necessário para ingressar com sucesso no competitivo mercado de trabalho da tecnologia. Este objetivo não é apenas uma busca por uma carreira, mas sim a realização de um sonho que arde em meu coração. Acredito firmemente que através da minha paixão, determinação e comprometimento, poderei alcançar este objetivo e contribuir significativamente para a comunidade tecnológica.
 
 <div>
   <a href="https://github.com/GaussKd0">
