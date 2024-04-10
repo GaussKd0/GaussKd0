@@ -30,7 +30,6 @@
 </div>
 
 <div align="center">
-  <p align="center">
     <img src="https://github.com/GaussKd0/GaussKd0/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   </p>
 </div>
